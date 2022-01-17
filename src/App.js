@@ -1,8 +1,8 @@
 import Section from './componets/Section/Section';
-import Profile from './componets/Profile/Profile/Profile';
-import Statistics from './componets/Statistics/Statistics/Statistics';
-import FriendList from './componets/FriendList/FriendList/FriendList';
-import TransactionHistory from './componets/TransactionHistory/TransactionHistory/TransactionHistory';
+import Profile from './componets/Profile/Profile';
+import Statistics from './componets/Statistics/Statistics';
+import FriendList from './componets/FriendList/FriendList';
+import TransactionHistory from './componets/TransactionHistory/TransactionHistory';
 
 import user from './data/user';
 import data from './data//data';
