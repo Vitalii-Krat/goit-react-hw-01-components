@@ -4,10 +4,10 @@ import Statistics from './componets/Statistics/Statistics/Statistics';
 import FriendList from './componets/FriendList/FriendList/FriendList';
 import TransactionHistory from './componets/TransactionHistory/TransactionHistory/TransactionHistory';
 
-import user from './componets/Profile/user';
-import data from './componets/Statistics/data';
-import friends from './componets/FriendList/friends';
-import transactions from './componets/TransactionHistory/transactions';
+import user from './data/user';
+import data from './data//data';
+import friends from './data/friends';
+import transactions from './data/transactions';
 
 function App() {
   return (
